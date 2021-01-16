@@ -1,0 +1,13 @@
+Company			Term_In_Years	Square_Feet
+
+Tommy's_Steak_House	5		1650
+Clothes_by_Wendy	4		3500
+Jonny's			2		900
+Hardware_and_More	4		1200
+Gala's			5		2000
+WK's_Jewelry		5		1500
+Readers_Delight		5		2000
+Jone's_Shoes		3		2500
+The_Lounge		4		900
+Sunshine		5		3000
+JD's_Cafe		6		3000
